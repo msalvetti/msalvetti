@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Globant**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 Focus on **Flutter**
 
-- 👨‍💻 All of my projects are not available at [Github, are private ;)](Github, are private ;))
+- 👨‍💻 Not all of my projects are available. I've been working on mobile in the private sector for 15 years.
 
 - 💬 Ask me about **Flutter and Android**
 
