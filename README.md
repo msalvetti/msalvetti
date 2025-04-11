@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Mariano Salveti</h1>
+<h1 align="center">Hi 👋, I'm Mariano Salvetti</h1>
 <h3 align="center">I can work with Android everywhere: If it has a screen, it will probably run Android and I can help on that. I can be a Mentor and grow engineers while keeping them engaged and focused on the product and company vision. I can be a Partner with peers in Product Management and Design to craft and evolve the team’s vision, mission, and strategy I can be a to Help implement effective engineering processes, metrics, and policies that emphasize quality and forward progress.</h3>
 
 - 🔭 I’m currently working on **Globant**
